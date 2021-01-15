@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\HTML\HTML\exercise\JAVASCRIPT-COURSE\complete-javascript-course-master\complete-javascript-course-master\05-Guess-My-Number\starter\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
